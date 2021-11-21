@@ -121,7 +121,8 @@
 }
 
 .two-columns__main-text {
-  width: 80%; min-width: 784px;
+  width: 80%;
+  min-width: 784px;
 }
 
 .two-columns__paragraph {
